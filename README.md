@@ -1,3 +1,3 @@
 # Quote Generator
 
-Lorem ipsum.
+Read something good -> [Open](https://kietil.github.io/agency-1-ca/)
