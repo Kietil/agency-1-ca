@@ -29,6 +29,7 @@ Passed
 - The student communicated challenges to their team.
 - The student was polite and professional in interactions.
 - The student made a valid contribution to the project.
+
 Not Passed
 - The student was absent without excuse or extension.
 - The student was disrespectful towards teammates.
