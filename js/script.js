@@ -10,6 +10,10 @@ let apiQuotes = [];
 function newQuote() {
   // Pick a random quote from the apiQuotes array
   const quote = apiQuotes[Math.floor(Math.random() * apiQuotes.length)];
+  // Check if author field is blank, if true: fill in "Unknown"
+  if (!quote.author) {
+    authorText.textContent = "Unknown";
+  } else {
   authorText.textContent = quote.author;
   quoteText.textContent = quote.text;
 }
