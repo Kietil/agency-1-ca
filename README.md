@@ -1,7 +1,7 @@
 # Quote Generator
 
-Are you missing one intelligence point for your build, can gain it here, with some clever quotes: 👉
-[Open in a new tab](https://kietil.github.io/agency-1-ca/)
+Are you missing one intelligence point for your build, can gain it here, with the quote generator: 👉
+[Clever quotes](https://kietil.github.io/agency-1-ca/)
 
 
 # Agency 1 CA Brief
