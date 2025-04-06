@@ -1,8 +1,7 @@
 # Quote Generator
 
-Read something good:
+Are you missing one intelligence point for your build, can gain it here, with some clever quotes:
 [Open in a new tab](https://kietil.github.io/agency-1-ca/)
-[Link to design file]()
 
 
 # Agency 1 CA Brief
